@@ -1,0 +1,3 @@
+A chaque commit, on veut stocker un fichier complémentaire automatiquement
+contenant le texte : « commit vérifié le <date et heure du jour>», si on a choisi ‘y’ dans le
+dialogue qui le demande
